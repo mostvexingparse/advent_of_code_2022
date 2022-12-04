@@ -4,9 +4,9 @@ My AOC2022 solutions in (nightly) Rust.
 
 ## Project structure
 
-One subproject for each day, with a binary handling both parts. The subprojects also have a `README.md` wich contains the assignment, a file named `input_test.txt` with the test data from the example and `input.txt` with the "real" data required for solving the assignment.
+One subproject for each day, with a binary handling both parts. The subprojects also have a `README.md` which contains the assignment, a file named `input_test.txt` with the test data from the example and `input.txt` with the "real" data required for solving the assignment.
 
-All suprojects are part of a workspace, so they can be built at once: 
+All subprojects are part of a workspace, so they can be built at once: 
 
 ~~~bash
 $ cargo build --release
