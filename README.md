@@ -26,3 +26,5 @@ $ ./target/release/day_01 < day_01/input.txt
 * [Day 2: Rock Paper Scissors](day_02)
 * [Day 3: Rucksack Reorganization](day_03)
 * [Day 4: Camp Cleanup](day_04)
+* [Day 5: Supply Stacks](day_05)
+* [Day 6: Tuning Trouble](day_06)
